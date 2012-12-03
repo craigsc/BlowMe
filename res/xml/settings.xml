@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <Preference
+  	android:key="color"
+  	android:title="Color"
+  	android:summary="Choose the color of the light"/>
+  <Preference
+  	android:key="sensitivity"
+  	android:title="Sensitivity"
+  	android:summary="Change the sensitivity of the mic"/>
+</PreferenceScreen>
